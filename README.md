@@ -10,3 +10,10 @@ Código y datos para replicar los análisis de *"Enredos creativos: afinidad y r
 
 ## Requisitos
 R ≥ 4.3 con: dplyr, purrr, tibble, tidyr, readxl, writexl, here, sna, igraph, ggraph, tidygraph, ggplot2, patchwork, ggrepel, scales.
+
+## Cómo citar
+Caro-Zúñiga, D., Muñoz-Salinas, Y., & Jeria, I. (2026). *Enredos creativos: afinidad y reconocimiento creativo en un taller de teatro para docentes* [Preprint]. Código y datos: https://github.com/DiegoCaroZ/enredos-creativos
+
+## Licencias
+- **Código** (`01analysis/`): [MIT](LICENSE).
+- **Datos y figuras** (`00raw-data/`, `02outputs/`): [CC BY 4.0](LICENSE-DATA.md).
